@@ -1,0 +1,16 @@
+{
+  "name": "iota_base",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "iota.lib.js": "^0.4.7",
+    "mam.client.js": "io-studio/mam.client.js",
+    "start": "^5.1.0"
+  }
+}
