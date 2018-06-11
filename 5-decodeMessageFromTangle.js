@@ -24,5 +24,5 @@ const getMessage = async () => {
   }
 }
 
-console.log('My address: ', hash)
+console.log('Transaction address to be decoded: ', hash)
 getMessage()
